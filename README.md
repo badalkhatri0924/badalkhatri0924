@@ -1,11 +1,17 @@
-- 👋 Hi, I’m @badalkhatri0924
-- 👀 I’m interested in Web3, Blockchain, Javascript and related technologies. I am a full stack MERN Developer and Have very good experience building scalable applications.
-- I have hands on experience in both REST and GraphQL APIs building.
-- I usually prefer to build backend applications in [Nest.js](https://nestjs.com/) and I have'e built 10+ scalable applications using it. Ofcourse I also have experience in Nodejs + Express.js applications.
-- 🌱 I’m currently exploring Blockchain, Microservices, AWS and expanding my knowledge in Database.
-- 📫 You can reach me on [Linkedin](https://www.linkedin.com/in/badal-khatri-652666128/).
+## Hi, I’m Badal Khatri  
+I’m a **Product Engineer** passionate about turning ideas into **scalable, user-loved products**. I bridge the gap between **engineering excellence** and **product vision**, building solutions that are technically robust, delightfully usable, and ready for market.  
 
-<!---
-badalkhatri0924/badalkhatri0924 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+I design and ship products end-to-end - from **AI-powered automation** and **multi-agent systems** to **web, mobile, and IoT platforms** - with a focus on **business value, user experience, and long-term scalability**.  
+
+**What I Do Best**  
+- Build **full-stack products** using **Next.js, NestJS, Angular, TypeScript, TailwindCSS, Firebase, GraphQL, PostgreSQL, MongoDB**  
+- Integrate **AI/ML** for real-world impact - LLMs, RAG pipelines, agentic workflows, computer vision  
+- Ship **IoT & Edge solutions** - MQTT, Raspberry Pi, low-latency control systems  
+- Align **tech decisions with product strategy** to maximize adoption and ROI  
+
+📫 **Let’s Build Together**  
+🌐 [badalkhatri.com](https://badalkhatri.com) | [X](https://x.com/BadalXAI) | 💼 [LinkedIn](https://linkedin.com/in/badal-khatri](https://www.linkedin.com/in/badalkhatribk/))  
+
+---
+
+> *"Product Engineer crafting AI-powered, full-stack products from concept to scale - blending code, design, and strategy to build what users love."*
